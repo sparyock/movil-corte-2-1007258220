@@ -35,9 +35,4 @@ Este proyecto tiene como objetivo desarrollar un sistema básico de gestión de 
 
    > **Nota**: Solo los usuarios autenticados podrán crear actividades. No se permite la creación de actividades sin autenticación.
 
-## Pasos para el desarrollo
 
-### 1. Configurar el ambiente de desarrollo
-1. Instala las dependencias del proyecto:
-   ```bash
-   npm install
